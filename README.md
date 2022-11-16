@@ -1,7 +1,7 @@
 # SimPy Lunchtime Demo
 SimPy library used to model the lunchtime process in the office. Simplified demo purpose.
 
-Scenario: Every day, a lunch is organized in hub for all present people around 1 PM. There are in total 30 people present in hub in the implemented scenario. The number of seating places is limited, as well as the number of functioning dishwashers. 
+Scenario: Every day, a lunch is organized in the hub for all present people around 1 PM. There are in total 30 people present in hub in the implemented scenario. The number of seating places is limited, as well as the number of functioning dishwashers. 
 Every person:
 1. Decides to have a lunch with certain delay after the lunch has started;
 2. Enters the kitchen, picks the dish and goes to the table, trying to find unoccupied spot;
