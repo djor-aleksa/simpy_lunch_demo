@@ -16,6 +16,6 @@ The goal of the simulation is to measure what is the **Average Waiting Time** du
 - **Number of Functioning Dishwashers**
 - **Number of People in Hub**
 
-This demo is part of the internal Python community presentation in Symphony. 
+This demo is part of the internal Python community presentation in Symphony, Niš hub. 
 
 Feel free to copy and use any part of the demo.
